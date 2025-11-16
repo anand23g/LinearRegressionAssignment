@@ -83,7 +83,7 @@ This improves interpretability and avoids wrong ordinal assumptions.
 
 9. Model Building (Sklearn Linear Regression)
 
-Trained the LR model on scaled training data.
+    Trained the LR model on scaled training data.
    * Model Performance:
    * Train R² : 0.84
    * Test R²  : 0.86
@@ -93,7 +93,7 @@ Trained the LR model on scaled training data.
 
 10. OLS Model (Statsmodels) + INTERPRETATION
 
-Used OLS to obtain:
+    Used OLS to obtain:
    * p-values
    * coefficients
    * t-stats
@@ -115,7 +115,7 @@ Used OLS to obtain:
 
 11. Residual Analysis
 
-Validated Linear Regression assumptions.
+    Validated Linear Regression assumptions.
    * Residual Histogram + KDE:
    * Residuals centered around zero → normal distribution.
    * Q–Q Plot:Residuals align closely with the diagonal line → normality assumption holds.
