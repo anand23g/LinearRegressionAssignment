@@ -6,7 +6,7 @@ BoomBikes, a US bike-sharing provider, experienced a major decline in revenue du
 
 1. Which factors impact bike rental demand?
 2. How strongly each variable affects customer usage?
-3 .How to predict future demand using historical trends?
+3. How to predict future demand using historical trends?
 
 This project builds a Multiple Linear Regression (MLR) model to analyze and predict daily bike rental demand (cnt) using temporal and meteorological variables.
 
